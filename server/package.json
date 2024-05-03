@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "dave",
+  "version": "1.0.0",
+  "main": "daveserver.js",
+  "scripts": {
+    "test": " node daveserver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
